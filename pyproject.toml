@@ -24,6 +24,11 @@ dependencies = [
     "pillow>=10",
 ]
 
+[project.urls]
+Homepage = "https://github.com/lukasheinz92/mopidy-melody"
+Repository = "https://github.com/lukasheinz92/mopidy-melody"
+Issues = "https://github.com/lukasheinz92/mopidy-melody/issues"
+
 [project.optional-dependencies]
 dev = ["pytest>=8", "ruff>=0.6"]
 

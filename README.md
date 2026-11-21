@@ -40,6 +40,8 @@ Open it at `http://<mopidy-host>:6680/melody/`.
 ## Installation
 
 ```sh
+pip install mopidy-melody
+# or the latest development version from GitHub
 pip install git+https://github.com/lukasheinz92/mopidy-melody
 # or from a local checkout
 pip install /path/to/mopidy-melody
